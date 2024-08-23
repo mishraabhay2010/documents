@@ -1,0 +1,7 @@
+site_name: Onboarding Tutorial for New Joiners
+site_description: Onboarding Tutorial for New Joiners
+plugins:
+  - techdocs-core
+nav:
+  - Getting Started: index.md
+  - Project Run,Build,and Deployment: runbuild.md
