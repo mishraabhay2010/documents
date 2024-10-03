@@ -1,9 +1,9 @@
-# Onboarding Tutorial for New Joiners
+# Onboarding Tutorial for New Joiners in the Team
 
 ## Part 2: Project Run, Build, and Deployment
 
 ### Introduction
-- Overview of the steps involved in running, building, and deploying the project.
+- Overview of the steps involved in running, building, and deploying the project
 - Importance of understanding the build and deployment process.
 
 ### Running the Project
