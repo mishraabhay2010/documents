@@ -1,4 +1,4 @@
-# Onboarding Tutorial for New Joiners in the Team
+# Onboarding Tutorial for New Joiners
 
 ## Part 2: Project Run, Build, and Deployment
 
