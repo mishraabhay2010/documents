@@ -1,4 +1,4 @@
-# Onboarding Tutorial for New Joiners Testing.
+# Onboarding Tutorial for New Joiners.
 
 ## Part 1: Configure Your Local Development Environment
 
