@@ -5,3 +5,4 @@ plugins:
 nav:
   - Getting Started: index.md
   - Project Run,Build,and Deployment: runbuild.md
+  - Test: test.md
